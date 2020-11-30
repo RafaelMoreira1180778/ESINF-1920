@@ -1,0 +1,5 @@
+argentina, bolivia
+argentina, brasil
+bolivia, brasil
+bolivia, chile
+brasil, colombia
